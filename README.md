@@ -1,2 +1,2 @@
-# Shop-Customers
-A machine learning model that checks for spending score of different customers in a shop.
+#Customer Segmentation
+A machine learning model that identifies key differentiators that divides customers into groups that can be targeted.
